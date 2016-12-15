@@ -1,3 +1,4 @@
+#Simple game
 def p
   print "> "
 end
