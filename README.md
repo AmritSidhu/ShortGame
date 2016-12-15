@@ -1,0 +1,2 @@
+# ShortGame
+A small game I made while i'm learning ruby.
